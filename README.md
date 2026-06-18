@@ -6,7 +6,7 @@
 
 ## 📖 Deskripsi
 
-Repository ini merupakan project **Ujian Akhir Semester (UAS) Tahun 2026** untuk mata kuliah **Knowledge Discovery and Web Mining (KDWM)**.
+Repository ini merupakan project **Ujian Akhir Semester (UAS) Tahun 2026** untuk mata kuliah **Konsep Data Warehouse Dan Mining (KDWM)**.
 
 Project ini dibuat sebagai implementasi materi yang telah dipelajari selama perkuliahan, mulai dari proses pengumpulan data, pengolahan data, analisis, hingga penyajian hasil dalam bentuk website.
 
