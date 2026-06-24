@@ -219,7 +219,7 @@ MIN_CONFIDENCE = 0.6      # Minimal confidence (60%)
 
 | Keterangan | Link |
 |------------|------|
-| 🎥 **Video Presentasi YouTube** | [Segera Hadir] |
+| 🎥 **Video Presentasi YouTube** | https://youtu.be/FPO-rK7qOBE?si=akb0ObBiziNnOfk3 |
 | 🌐 **Google Sites** | [https://sites.google.com/view/data-science-portfolio/beranda?authuser=2](https://sites.google.com/view/data-science-portfolio/beranda?authuser=2) |
 | 🐙 **GitHub Profile** | [https://github.com/bunaya123](https://github.com/bunaya123) |
 | 📷 **Instagram** | [https://www.instagram.com/nayaaryd_/](https://www.instagram.com/nayaaryd_/) |
